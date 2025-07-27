@@ -37,6 +37,11 @@ Our App is not intended for children under the age of 13. We do not knowingly co
 
 You may update or delete your personal information by contacting us at the email below.
 
+## How to Request Account Deletion
+
+To request deletion of your account and associated data, please email us at **friendspizzahut70@gmail.com** with your account details.  
+We will verify your identity, and once verified, your account and all associated data will be deleted within 24 hours.
+
 ## Changes to This Privacy Policy
 
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
@@ -44,4 +49,4 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 ## Contact Us
 
 If you have any questions about this Privacy Policy, please contact us at:  
-**Email:** friendspizzahut70@gmail.com
+**Email:**
